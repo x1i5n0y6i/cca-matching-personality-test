@@ -6,7 +6,7 @@ print()
 
 tech1 = input("I enjoy building and fixing things.")
 
-outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
+outdoor1 = input("I'll go crazy if I do not go outdoors for the whole day.")
 
 music1 = ("I can see colours in my mind when i hear music.")
 
@@ -14,11 +14,11 @@ tech2 = input("I know how to build apps and websites.")
 
 outdoor2 = input("I'm good with tying knots and ropes.")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I can play a musical instrument well.")
 
-tech3 = input("I love computers.")
+tech3 = input("I love technology and electronic devices.")
 
-outdoor3 = input("I don't mind the sun.")
+outdoor3 = input("I don't mind the sun and love physical activites.")
 
 music3 = input("I love playing my assigned instrument.")
 
